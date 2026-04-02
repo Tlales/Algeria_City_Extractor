@@ -3,6 +3,17 @@
 
 A powerful grep-based utility to extract and identify Algerian cities and wilayas (provinces) from any text-based files. Perfect for data processing, geolocation extraction, and text analysis.
 
+## Why?
+Most datasets provide clean lists of Algerian cities and wilayas.
+
+This tool is different — it is designed to extract location names from **noisy, unstructured text**, such as:
+- OCR outputs
+- database dumps
+- logs
+- scraped data
+
+It prioritizes **robust matching over strict formatting**.
+
 **Supported file formats:** `.txt`, `.csv`, `.sql`, `.json`, `.log`, `.xml`, and any other text-based format.
 
 ## Features
