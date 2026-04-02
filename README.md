@@ -1,4 +1,4 @@
-# Algerian Data Extraction 🇩🇿
+# Algerian Wilaya Extractor
 
 A powerful grep-based utility to extract and identify Algerian cities and wilayas (provinces) from any text-based files. Perfect for data processing, geolocation extraction, and text analysis.
 
